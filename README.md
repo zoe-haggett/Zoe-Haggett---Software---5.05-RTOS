@@ -1,6 +1,9 @@
 # Zoe-Haggett---Software---5.05-RTOS
 RTOS Project for PAST Software Onboarding
 
+This project is to be completed in 8 weeks, due on the 9th of October 2026.
+All coding and programs will be done in C++ using Microsoft Visual Studio.
+
 
 ## RTOS Project Deliverables
 - Explain what a queue, mutex and semaphore are in the context of an operating system.
@@ -16,4 +19,4 @@ RTOS Project for PAST Software Onboarding
 - Research how an RTOS could be used in a Flight Computer.
     - Which tasks the system would be responsible for, e.g. polling subsystems, creating packets, sending packets, responding to commands.
     - Which tasks require the highest priority.
-    - How the system would handle task failures. 
+    - How the system would handle task failures.
