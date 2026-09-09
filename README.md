@@ -2,7 +2,7 @@
 RTOS Project for PAST Software Onboarding
 
 This project is to be completed in 8 weeks, due on the 9th of October 2026.
-All coding and programs will be done in C++ using STM32CubeIDE software.
+All coding and programs will be done in C++ using STM32CubeIDE software and Microsoft Visual Studio.
 
 
 ## RTOS Project Deliverables
