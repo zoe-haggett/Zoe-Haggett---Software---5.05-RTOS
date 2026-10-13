@@ -36,6 +36,10 @@ PAST Logbook (Word Document)
 - A week-by-week log of what has been completed/added/changed in the project, a timeline for this, proof of work, as well as a reflection of what has gone wrong and how it has been fixed.
 
 L432KC Blink Program - Two Tasks (File - Language: C)
-- The completed first deliverable for the project.
+- The completed first coding deliverable for the project.
 - To view the main.c file which includes the created tasks, go to Core --> Src --> main.c
-    - *This is the same directory for two files that cover the second deliverable*.
+    - *This is the same directory for two files that cover the second coding deliverable*.
+
+STM32 FreeRTOS IPC Diagram
+- Displays how the data transfer works between the tasks, queue, and microcontroller for the second coding deliverable.
+- Explains how race conditions are avoided by using a queue.
