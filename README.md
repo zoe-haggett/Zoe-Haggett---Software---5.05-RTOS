@@ -43,3 +43,6 @@ L432KC Blink Program - Two Tasks (File - Language: C)
 STM32 FreeRTOS IPC Diagram
 - Displays how the data transfer works between the tasks, queue, and microcontroller for the second coding deliverable.
 - Explains how race conditions are avoided by using a queue.
+
+RTOS For Flight Computers
+- Explains the key tasks an RTOS would assist with in aircrafts, as well as stating the highest priority tasks and why.
